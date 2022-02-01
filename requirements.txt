@@ -1,0 +1,6 @@
+funcy
+matplotlib
+numba
+numpy==1.21
+torch
+ujson
