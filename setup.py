@@ -3,7 +3,9 @@ from setuptools import setup, find_packages
 requirements = [
     "funcy",
     "matplotlib",
-    "numpy==1.21",
+    "numba",
+    "numpy==1.21.*",
+    "scipy",
     "torch",
     "ujson"
 ]

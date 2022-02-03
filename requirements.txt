@@ -1,6 +1,7 @@
 funcy
 matplotlib
 numba
-numpy==1.21
+numpy==1.21.*
+scipy
 torch
 ujson
