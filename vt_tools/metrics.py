@@ -73,6 +73,6 @@ def p2cp_mean(u_, v_):
 
     u2cv = dist_mtx.min(axis=1)
     v2cu = dist_mtx.min(axis=0)
-    mean_p2cp = (np.sum(u2cv) + np.sum(v2cu)) / (n + m)
+    mean_p2cp = ((np.sum(u2cv) / n) + (np.sum(v2cu) / m)) / 2
 
     return mean_p2cp

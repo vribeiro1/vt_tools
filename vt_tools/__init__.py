@@ -4,6 +4,7 @@ LOWER_INCISOR = "lower-incisor"
 LOWER_LIP = "lower-lip"
 PHARYNX = "pharynx"
 SOFT_PALATE = "soft-palate"
+SOFT_PALATE_MIDLINE = "soft-palate-midline"
 THYROID_CARTILAGE = "thyroid-cartilage"
 TONGUE = "tongue"
 UPPER_INCISOR = "upper-incisor"
@@ -17,6 +18,7 @@ COLORS = {
     LOWER_LIP: "lime",
     PHARYNX: "goldenrod",
     SOFT_PALATE: "dodgerblue",
+    SOFT_PALATE_MIDLINE: "dodgerblue",
     THYROID_CARTILAGE: "saddlebrown",
     TONGUE: "darkorange",
     UPPER_INCISOR: "yellow",
