@@ -19,7 +19,7 @@ COLORS = {
     PHARYNX: "goldenrod",
     SOFT_PALATE: "dodgerblue",
     SOFT_PALATE_MIDLINE: "dodgerblue",
-    THYROID_CARTILAGE: "saddlebrown",
+    THYROID_CARTILAGE: "sandybrown",
     TONGUE: "darkorange",
     UPPER_INCISOR: "yellow",
     UPPER_LIP: "magenta",
