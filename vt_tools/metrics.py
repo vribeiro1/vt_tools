@@ -93,6 +93,6 @@ def p2cp_rms(u_, v_):
     u2cv = dist_mtx.min(axis=1)
     v2cu = dist_mtx.min(axis=0)
     p2cp = (u2cv + v2cu) / 2
-    p2cp_rms = (p2cp ** 2).sum() / n
+    p2cp_rms = np.sqrt((p2cp ** 2).sum() / n)
 
     return p2cp_rms
