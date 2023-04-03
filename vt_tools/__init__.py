@@ -1,4 +1,5 @@
 ARYTENOID_MUSCLE = "arytenoid-muscle"
+ARYTENOID_CARTILAGE = "arytenoid-cartilage"
 EPIGLOTTIS = "epiglottis"
 LOWER_INCISOR = "lower-incisor"
 LOWER_LIP = "lower-lip"
@@ -12,7 +13,7 @@ UPPER_LIP = "upper-lip"
 VOCAL_FOLDS = "vocal-folds"
 
 COLORS = {
-    ARYTENOID_MUSCLE: "blueviolet",
+    ARYTENOID_CARTILAGE: "blueviolet",
     EPIGLOTTIS: "turquoise",
     LOWER_INCISOR: "cyan",
     LOWER_LIP: "lime",
